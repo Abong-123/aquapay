@@ -1,0 +1,7 @@
+[28-Apr-2025 10:51:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tkbmyid/gentara.tk2b.my.id/assets/funch.php on line 6
+[28-Apr-2025 10:51:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tkbmyid/gentara.tk2b.my.id/assets/funch.php on line 6
+[28-Apr-2025 10:51:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tkbmyid/gentara.tk2b.my.id/index.php on line 46
+[28-Apr-2025 10:51:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tkbmyid/gentara.tk2b.my.id/index.php on line 47
+[28-Apr-2025 10:52:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tkbmyid/gentara.tk2b.my.id/assets/funch.php on line 6
+[28-Apr-2025 10:52:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tkbmyid/gentara.tk2b.my.id/index.php on line 46
+[28-Apr-2025 10:52:00 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tkbmyid/gentara.tk2b.my.id/index.php on line 47
